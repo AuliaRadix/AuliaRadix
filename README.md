@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://auliaradix.github.io"><img src="https://img.shields.io/badge/Live_Portfolio-auliaradix.github.io-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio"></a>
-  <a href="https://wa.me/6285869095921"><img src="https://img.shields.io/badge/WhatsApp-Chat_Directly-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+  <a href="https://auliaradix.github.io#contact"><img src="https://img.shields.io/badge/Get_In_Touch-Contact_Me-2563eb?style=for-the-badge" alt="Contact Me"></a>
   <img src="https://img.shields.io/badge/Status-7th_Semester_Informatics-10b981?style=for-the-badge" alt="Status">
 </p>
 
@@ -45,7 +45,7 @@ I am **Aulia Radix Putra Winarko**, an Informatics Engineering student at **Telk
 
 * **[auliaradix.github.io](https://github.com/AuliaRadix/auliaradix.github.io)**
   * *Modern Glassmorphic Developer Portfolio v2*
-  * Built with Next.js 14, Tailwind CSS, and frosted glass design system. Deployed live on GitHub Pages with interactive filtering, verified internship tracks, and direct WhatsApp integrations.
+  * Built with Next.js 14, Tailwind CSS, and frosted glass design system. Deployed live on GitHub Pages with interactive filtering, verified internship tracks, and direct contact options.
 * **[Bank BTN Digital Queue & Ticketing System](https://github.com/AuliaRadix/Prototype-Pengambilan-Tiket-BTN-super-admin)**
   * *Enterprise Banking Queue Prototype*
   * Engineered a comprehensive three-tier role system ([Super Admin](https://github.com/AuliaRadix/Prototype-Pengambilan-Tiket-BTN-super-admin), [Petugas](https://github.com/AuliaRadix/Prototype-Pengambilan-Tiket-BTN-petugas), and [User/Customer](https://github.com/AuliaRadix/Prototype-Pengambilan-Tiket-BTN-user-)) to automate customer token dispensing and teller routing during Bank BTN KC Pekalongan internship.
@@ -75,7 +75,7 @@ I am **Aulia Radix Putra Winarko**, an Informatics Engineering student at **Telk
 I am always keen to discuss software engineering, technical collaboration, or internship opportunities:
 
 * 🌐 **Portfolio:** [auliaradix.github.io](https://auliaradix.github.io)
-* 💬 **WhatsApp:** [+62 858-6909-5921](https://wa.me/6285869095921)
+* ✉️ **Contact:** Reach out directly through the [Portfolio Contact Form](https://auliaradix.github.io#contact)
 * 📍 **Location:** Purwokerto & Pekalongan, Central Java, Indonesia
 * ⚡ **Fun Fact:** When not writing code, I analyze computer vision workflows and build custom autonomous agent tooling.
 
